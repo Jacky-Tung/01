@@ -1,0 +1,33 @@
+html{
+    font-size: 10px;
+    font-family: "Opens Sans", sans-serif;
+    background-color: lightsalmon;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: red;
+}
+
+p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+    color: yellow;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightsalmon;
+    padding: 0 20px 20px 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
