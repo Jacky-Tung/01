@@ -3,10 +3,10 @@ const myImage = document.querySelector('img');
 myImage.onclick = () => {
     const mySrc = myImage.getAttribute('src');
     if(mySrc === 'images/labixiaoxin.jpeg'){
-        myImage.setAttribute('src','images/labixiaoxin2.jpeg');
+        myImage.setAttribute('src','labixiaoxin2.jpeg');
     }
     else{
-        myImage.setAttribute('src','images/labixiaoxin.jpeg');   
+        myImage.setAttribute('src','labixiaoxin.jpeg');   
     }
 }
 
